@@ -1,0 +1,16 @@
+{
+  "name": "cloud-issue-tracker-backend",
+  "version": "1.0.0",
+  "description": "Backend for Cloud Issue Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "^0.0.5"
+  }
+}
